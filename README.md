@@ -1,6 +1,8 @@
-This is a Jimi Hendrix Tribute Page.
+Jimi Hendrix Tribute Page
 
-It makes up the first part of my coding portfolio.
+This is the first of five mandetory Responsive Web Designs projects completed on freecodecamp .
+
+Kindly click on three horizontal lines on your left of the monitor to check my test results.
 
 You can see this project live at the following URL:
 
